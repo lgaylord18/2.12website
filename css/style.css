@@ -4139,11 +4139,11 @@ a.logo:hover{
     font-size: 14px;
 }
 .footer-social-links a{
-    width: 25px;
-    height: 25px;
-    line-height: 25px !important;
+    width: 125px;
+    height: 125px;
+    line-height: 125px !important;
     position: relative;
-    margin: 0 6px;
+    margin: 0 30px;
     text-align: center;
     display: inline-block;
     color: #111;
