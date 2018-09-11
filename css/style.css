@@ -4139,9 +4139,9 @@ a.logo:hover{
     font-size: 14px;
 }
 .footer-social-links a{
-    width: 125px;
-    height: 125px;
-    line-height: 125px !important;
+    width: 80px;
+    height: 80px;
+    line-height: 80px !important;
     position: relative;
     margin: 0 30px;
     text-align: center;
