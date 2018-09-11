@@ -1,8 +1,8 @@
 <?php
 if($_POST)
 {
-	$to_Email   	= "support@bestlooker.pro"; //Replace with recipient email address
-	$subject        = 'Message from website '.$_SERVER['SERVER_NAME']; //Subject line for emails
+	$to_Email   	= "lgaylord@gmail.com"; //Replace with recipient email address
+	$subject        = 'Message from your personal website'; //Subject line for emails
 	
 	
 	//check if its an ajax request, exit if not
