@@ -643,7 +643,7 @@
             </section>
             <!-- End Contact Section -->
             
-        < ?php include 'php/footer.php'; ?>
+        <?php include 'php/footer.php'; ?>
         
         </div>
         <!-- End Page Wrap -->
