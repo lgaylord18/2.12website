@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    < ?php include 'php/header.php'; ?>
+    <?php include 'php/header.php'; ?>
     <body class="appear-animate">
         
         <!-- Page Loader -->        
